@@ -1,0 +1,2 @@
+DensePose/*.pkl filter=lfs diff=lfs merge=lfs -text
+DensePose/*.yaml filter=lfs diff=lfs merge=lfs -text
