@@ -1,3 +1,4 @@
 DensePose/*.pkl filter=lfs diff=lfs merge=lfs -text
 DensePose/*.yaml filter=lfs diff=lfs merge=lfs -text
 DensePose/* filter=lfs diff=lfs merge=lfs -text
+sd-vae-ft-mse/*.safetensors filter=lfs diff=lfs merge=lfs -text
